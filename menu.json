@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "pizza",
+        "price": 120,
+        "qty": 10
+    },
+    {
+        "name" : "chips",
+        "price": 50,
+        "qty" : 30
+    },
+    {
+        "name" : "mobile",
+        "price": 32000,
+        "qty": 20
+    },
+    {
+        "name": "laptops",
+        "price": 100000,
+        "qty" : 100
+    }
+]
